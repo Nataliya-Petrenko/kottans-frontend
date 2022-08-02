@@ -5,17 +5,17 @@
 ### General
 
 - [ ] Git Basics
-    - [x] Курс Introduction to Git and GitHub
-        - [x] тиждень 1
-        - [x] тиждень 2
+    - [x] Course Introduction to Git and GitHub
+        - [x] week 1
+        - [x] week 2
     - [x] learngitbranching.js.org:
-        - [x] Основи: Introduction Sequence
-        - [x] Віддалені репозиторії: Push & Pull – віддалені репозиторії в Git
-    - [x] Створіть репозиторій та назвіть його kottans-frontend.
-    - [x] Створіть README.md для репозиторію.
-    - [ ] Опишіть свої враження від вивченого матеріалу.
-    - [ ] Надішліть pull-request сюди Kottans/mock-repo пропонуючи зміни.
-    - [ ] Додаткові матеріали
+        - [x] Main: Introduction Sequence
+        - [x] Remote: Push & Pull -- Git Remotes 
+    - [x] Create repository named kottans-frontend.
+    - [x] Create README.md for the repository.
+    - [ ] Describe your impressions about learned materials.
+    - [ ] Send a pull-request to Kottans/mock-repo proposing a change.
+    - [ ] Extra Materials
 - [ ] Linux CLI and Networking
 - [ ] VCS (hello gitty), GitHub and Collaboration
 ### Front-End Basics
