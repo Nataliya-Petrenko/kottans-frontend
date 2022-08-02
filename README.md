@@ -18,6 +18,7 @@
         ![List of material covered: week 1](/images/1/Intro%20Git%203.PNG)
 
          </details>
+
         - [x] week 2
 
         <details>
@@ -29,6 +30,7 @@
 
         ![List of material covered: week 2](/images/1/Intro%20Git%206.PNG)
          </details>
+
     - [x] learngitbranching.js.org:
         - [x] Main: Introduction Sequence
 
@@ -38,13 +40,14 @@
         ![List of material covered: Main](/images/1/LGB%201.PNG)
 
          </details>
+         
         - [x] Remote: Push & Pull -- Git Remotes 
 
         <details>
             <summary>List of material covered:</summary>
 
         ![List of material covered: Remote](/images/1/LGB%202.PNG)
-        
+
          </details>
 
     - [x] Create repository named kottans-frontend.
