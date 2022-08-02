@@ -19,6 +19,8 @@
 
          </details>
 
+        >It was difficult to listen and understand the english speaker. I used subtitles with translation into Russian. But, despite this, I needed watching and reading again and again to understand it completely. It good practise English for me, but it very unproductive for studying Git.
+
         - [x] week 2
 
         <details>
@@ -31,6 +33,10 @@
         ![List of material covered: week 2](/images/1/Intro%20Git%206.PNG)
          </details>
 
+
+        >I understud that reading subtitles in English and translation some words into Russian is more useful then reading of words porridge in only Russian. It seems to me, I start understanding what is Git and how use it.
+
+
     - [x] learngitbranching.js.org:
         - [x] Main: Introduction Sequence
 
@@ -40,7 +46,7 @@
         ![List of material covered: Main](/images/1/LGB%201.PNG)
 
          </details>
-         
+
         - [x] Remote: Push & Pull -- Git Remotes 
 
         <details>
@@ -50,15 +56,11 @@
 
          </details>
 
+         > This site showed me Git's working clearly. I liked it. 
+
     - [x] Create repository named kottans-frontend.
     - [x] Create README.md for the repository.
-    - [ ] Describe your impressions about learned materials.
-
-<!--    <details>
-        <summary>My impressions:</summary>
-
-    </details>
--->
+    - [x] Describe your impressions about learned materials.
     - [ ] Send a pull-request to Kottans/mock-repo proposing a change.
     - [ ] Extra Materials
 - [ ] Linux CLI and Networking
