@@ -4,7 +4,8 @@
 ## Stage 0. Self-Study
 ### General
 
-- [ ] Git Basics
+- [x] Git Basics
+
     - [x] Course Introduction to Git and GitHub
         - [x] week 1
 
@@ -61,8 +62,11 @@
     - [x] Create repository named kottans-frontend.
     - [x] Create README.md for the repository.
     - [x] Describe your impressions about learned materials.
-    - [ ] Send a pull-request to Kottans/mock-repo proposing a change.
+    - [x] Send a pull-request to Kottans/mock-repo proposing a change.
     - [ ] Extra Materials
+
+    >This step took longer than I expected. It's very cool that I've done it!
+
 - [ ] Linux CLI and Networking
 - [ ] VCS (hello gitty), GitHub and Collaboration
 ### Front-End Basics
