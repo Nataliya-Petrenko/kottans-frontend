@@ -68,6 +68,10 @@
     >This step took longer than I expected. It's very cool that I've done it!
 
 - [ ] Linux CLI and Networking
+    - [x] Linux Survival (4 modules)
+    > It was very useful. Some commands from course "Introduction to Git and GitHub" have become clearer for me.
+    - [ ] HTTP: The Protocol Every Web Developer Must Know - Part 1
+    - [ ] HTTP: The Protocol Every Web Developer Must Know - Part 2
 - [ ] VCS (hello gitty), GitHub and Collaboration
 ### Front-End Basics
 - [ ] Intro to HTML & CSS
@@ -75,7 +79,7 @@
 - [ ] HTML & CSS Practice 
 - [ ] JavaScript Basics
 - [ ] Document Object Model - practice
-### - [ ] Advanced Topics
+### Advanced Topics
 - [ ] Building a Tiny JS World (pre-OOP) - practice
 - [ ] Object oriented JS - practice
 - [ ] OOP exercise - practice
