@@ -69,9 +69,41 @@
 
 - [ ] Linux CLI and Networking
     - [x] Linux Survival (4 modules)
+
+        <details>
+            <summary>Results:</summary>
+
+        ![Results](/task_linux_cli/LS%201.PNG)
+
+        ![Results](/task_linux_cli/LS%202.PNG)
+
+        ![Results](/task_linux_cli/LS%203.PNG)
+
+        ![Results](/task_linux_cli/LS%204.PNG)        
+         </details>
+
     > It was very useful. Some commands from course "Introduction to Git and GitHub" have become clearer for me.
-    - [ ] HTTP: The Protocol Every Web Developer Must Know - Part 1
-    - [ ] HTTP: The Protocol Every Web Developer Must Know - Part 2
+
+    - [x] HTTP: The Protocol Every Web Developer Must Know - Part 1
+    - [x] HTTP: The Protocol Every Web Developer Must Know - Part 2
+
+    > The articles above contain a lot of new information for me. Sometimes it was difficult to understand all of these. Now I've known the difference between HTTP and HTTPs and some others things from articles. But I need to come back to this part of the training in a while to better understand headers, request, etc.
+
+    - [x] Make a screenshot of your finished lessons from (1) and put the screenshot in task_linux_cli folder in your kottans-frontend repo.
+    - [x] In your kottans-frontend repo README.md:
+        - [x] add header ## Linux CLI, and HTTP;
+
+        >I've added a header above and I want to continue the report in the same style, if I may.
+
+        - [x] embed the screenshot or add a link to the screenshot;
+        - [x] list your reflections on all subtasks (what was new to you, what surprised you, what you intend to use in future).
+
+        >I want to explain why I don't do this task in full here. I do a summary of all covered materials and note the most important information. It's much more text than a couple of sentences, because this is a new field of knowledge for me and I've seen a lot of this for the first time. And it seems to me senseless to add all of this here.
+        
+    - [x] Post a message in course channel: Linux CLI and HTTP — #done and add the link to your repo. 
+    - [ ] Extra Materials.
+    - [ ] Optional materials.
+
 - [ ] VCS (hello gitty), GitHub and Collaboration
 ### Front-End Basics
 - [ ] Intro to HTML & CSS
